@@ -8,27 +8,27 @@ A community driven list of useful Health Resources. Other amazingly awesome list
 - [Awesome Health](#awesome-health)
     - [Anatomy](#anatomy)
     - [Food](#food)
-    - [Exercise](#exercise) 
+    - [Exercise](#exercise)
     - [Health Organizations](#health-organizations)
     - [Not Feeling Well](#not-feeling-well)
     - [Home Remedies](#home-remedies)
- 
+
 - [Contributing](#contributing)
 
 ## Anatomy
 
 *Understanding of Human function*
 
-* [Zygotebody](http://zygotebody.com/) — Zygote Body, formerly Google Body, is a web application that renders manipulable 3D anatomical models of the human body
+* [Zygotebody](http://zygotebody.com/) – Zygote Body, formerly Google Body, is a web application that renders manipulable 3D anatomical models of the human body
 * [Biodigital](https://human.biodigital.com/index.html) - Similar to Zygotebody but all deceases are associated.
-* [Wiki](http://en.wikipedia.org/wiki/Human_body) — Wikipedia Entry
+* [Wiki](http://en.wikipedia.org/wiki/Human_body) – Wikipedia Entry
 * [BMI] (http://blog.bodylabs.com/2015/01/29/visualizing-bmis-blind-spots/) BMI Internals
 
 ## Food
 
 *Food and Nutrition*
 
-* [TellSpecopedia](http://www.tellspecopedia.com/) — dynamic, up-to-date consumer resource for objective,  evidence-based information on thousands of global food ingredients and their impact on health.
+* [TellSpecopedia](http://www.tellspecopedia.com/) – dynamic, up-to-date consumer resource for objective, evidence-based information on thousands of global food ingredients and their impact on health.
 * [Harward Nutrition Source](http://www.hsph.harvard.edu/nutritionsource/) - The Nutrition Source provides evidence-based diet & nutrition information for clinicians, health professionals, the media and the public.
 * [choose MyPlate](http://www.choosemyplate.gov/) - . MyPlate is a new generation icon with the intent to prompt consumers to think about building a healthy plate at meal times and to seek more information to help them do that by going to website.
 * [10 Tips](http://www.choosemyplate.gov/healthy-eating-tips/ten-tips.html) - 10 Tips for Nutrition and Weight Control.
@@ -37,11 +37,12 @@ A community driven list of useful Health Resources. Other amazingly awesome list
 
 *Exercise*
 
+- [Army Fitness Test Calculator](https://www.armyfitnesstestcalculator.com/) - Free calculator that scores the Army Fitness Test using the Army's official scoring tables, plus AFT standards guides and related Army fitness calculators.
 
 ## Health Organizations
 
-* [WHO](http://www.who.int/en/) — World Health Organization
-* [NIC](http://www.nlm.nih.gov/) — US National Library of Medicine
+* [WHO](http://www.who.int/en/) – World Health Organization
+* [NIC](http://www.nlm.nih.gov/) – US National Library of Medicine
 * [ACS](http://www.cancer.org/healthy/index) - Stay Healthy from American Cancer Society
 * [DIABETES] (http://www.diabetes.org/) - American diabetes Association
 
@@ -60,7 +61,7 @@ A community driven list of useful Health Resources. Other amazingly awesome list
 
 # Contributing
 
-Your contributions are always welcome! Please submit a pull request or create an issue to add a new resource. 
+Your contributions are always welcome! Please submit a pull request or create an issue to add a new resource.
 
 
 References:
@@ -68,5 +69,5 @@ References:
 Healt Palpitations in a Healthy Heart - http://www.heartmdinstitute.com/126-hmd-root/hmd-articles/494-worried-about-heart-palpitations#!kmt-start=10
 ## Calculators
 
-- [Calorique](https://calorique.io/) - Free nutrition calculators using Mifflin-St Jeor BMR and Compendium of Physical Activities. TDEE, macros, calorie deficit, BMI, activity calorie burn. ACSM-aligned methodology.
-
+- [Calorique](https://calorique.io/) - Free nutrition calculators using Mifflin-St Jeor BMR and Compendium of Physical Activities. TDEE, macros, calorie deficit, BMI, activity calorie burn. ACSM-aligned
+methodology.
